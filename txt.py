@@ -1,1 +1,2 @@
-print "Hello Wolrd, i am new to DevOps"
+print "Hello Wolrd, new to DevOps"
+print "consistency will surely get me there"
